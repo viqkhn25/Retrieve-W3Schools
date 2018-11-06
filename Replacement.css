@@ -1,0 +1,16 @@
+.nav-item,.w3-col{display:inline-block;}
+.section{width:720px;}
+body{-webkit-print-color-adjust:exact;}
+.newPage{page-break-before:always;}
+.test [class*="col-"] {padding: 15px; background-color: #f1f1f1;border: 1px solid #D8D8D8;display:inline-block;}
+@media all{.w3-col.m1{width:8.33333%}.w3-col.m2{width:16.66666%}.w3-col.m3,.w3-quarter{width:24.99999%}.w3-col.m4,.w3-third{width:33.33333%}
+@media all{.w3-col.l1{width:8.33333%}.w3-col.l2{width:16.66666%}.w3-col.l3{width:24.99999%}.w3-col.l4{width:33.33333%}
+
+table.browserref .bsChrome {background-image: url(/images/compatible_chrome.gif);}
+table.browserref .bsEdge {background-image: url(/images/compatible_edge.gif);}
+table.browserref .bsFirefox {background-image: url(/images/compatible_firefox.gif);}
+table.browserref .bsSafari {background-image: url(/images/compatible_safari.gif);}
+table.browserref .bsOpera {background-image: url(/images/compatible_opera.gif);}
+table.browserref {border-collapse: collapse;width: 100%;}
+table.browserref th {height: 44px;background-repeat: no-repeat;background-position: center center;border: 1px solid #d4d4d4;background-color: #ffffff;font-weight: normal;color: #555555;padding: 11px 5px 11px 5px;vertical-align: middle;}
+table.browserref td {border: 1px solid #d4d4d4;text-align: center;padding: 8px;vertical-align: top;}
