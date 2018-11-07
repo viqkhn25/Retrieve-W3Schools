@@ -243,8 +243,8 @@ var exec = function (){
     setTimeout("paging()", (endPageIndex - startPageIndex + 1) * pageLoadingIntval + 11000);
 }
 
-var targetHeadIndex = 7;
-var startPageIndex = 161;
-var endPageIndex = 240;
+var targetHeadIndex = 0;
+var startPageIndex = 1;
+var endPageIndex = 5;
 var pageLoadingIntval = 8000;
 exec();
